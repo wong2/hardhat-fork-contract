@@ -1,4 +1,4 @@
-### A demo using Hardhat to fork mainnet and override contract state
+A demo using Hardhat to fork mainnet and override contract state
 
 ### Sample Code
 
